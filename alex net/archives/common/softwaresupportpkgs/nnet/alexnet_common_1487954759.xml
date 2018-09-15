@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>softwaresupportpkgs/nnet/alexnet</componentBaseName>
+    <componentFileName>softwaresupportpkgs/nnet/alexnet_common_1487954759.zip</componentFileName>
+    <componentName>softwaresupportpkgs/nnet/alexnet_common</componentName>
+    <componentVersion>1487954759</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2017a</releaseFamily>
+    <size>227455491</size>
+    <type />
+    <uncompressedBytes>227419803</uncompressedBytes>
+  </component>
+</componentData>
+

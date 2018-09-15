@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn />
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>win64</platform>
+  <productBaseCode>ALEXNET</productBaseCode>
+  <productName>Neural Network Toolbox Model for AlexNet Network</productName>
+  <productNumber>2145</productNumber>
+  <productVersion>17.1.0</productVersion>
+  <releaseDescription>R2017a</releaseDescription>
+  <releaseFamily>R2017a</releaseFamily>
+</productAdditionalComps>
+
